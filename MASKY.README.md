@@ -1,7 +1,7 @@
 # Vowel Counter Program
 This program asks the user to enter a word and then counts how many lowercase and uppercase vowels it contains.
 
-# Features
+## Features
 - Asks the user to input a word
 - Counts lowercase vowels (a, e, i, o, u)
 - Counts uppercase vowels (A, E, I, O, U)
